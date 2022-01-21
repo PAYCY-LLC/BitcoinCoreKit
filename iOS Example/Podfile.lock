@@ -1,0 +1,34 @@
+PODS:
+  - Cuckoo (1.5.2):
+    - Cuckoo/Swift (= 1.5.2)
+  - Cuckoo/Swift (1.5.2)
+  - Nimble (9.2.1)
+  - Quick (4.0.0)
+  - RxBlocking (5.1.3):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.3)
+
+DEPENDENCIES:
+  - Cuckoo
+  - Nimble
+  - Quick
+  - RxBlocking (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Cuckoo
+    - Nimble
+    - Quick
+    - RxBlocking
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Cuckoo: df291c2d8462a39a16494a9db4ef112f5ca3bdc0
+  Nimble: e7e615c0335ee4bf5b0d786685451e62746117d5
+  Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
+  RxBlocking: 5aed110d3996c0a4b07340810b9ba230fa70df5c
+  RxSwift: 915abbdfb62214aa89ccd0b194d44fb478019b27
+
+PODFILE CHECKSUM: 914bbe22c405c512bae945492a6f6081e5201ca0
+
+COCOAPODS: 1.11.2

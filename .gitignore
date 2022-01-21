@@ -1,0 +1,9 @@
+# Xcode
+.bundle/
+build/*
+Pods/*
+iOs Example/Pods/*
+xcuserdata
+!Podfile.lock
+.idea/
+.build/
